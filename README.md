@@ -36,6 +36,9 @@ focus mantra    →  architect · automate · verify · scale
 
 | Repository | Focus | Tech Stack |
 | :--- | :--- | :--- |
+| **[mcp-whatsapp-bridge](https://github.com/diptapradipta21/mcp-whatsapp-bridge)** | Model Context Protocol (MCP 2.0) server enabling Claude Desktop & Code to send direct WhatsApp messages & alerts. | Python, MCP SDK, WhatsApp Gateway |
+| **[agent-rag-vault](https://github.com/diptapradipta21/agent-rag-vault)** | Zero-token local RAG & BM25 Markdown knowledge vault search engine for AI agents and Obsidian. | Python Standard Library, BM25, Obsidian |
+| **[claude-token-sentinel](https://github.com/diptapradipta21/claude-token-sentinel)** | Real-time terminal HUD tokenometer & cost guard for Claude Code CLI to prevent 5-hour rate limits. | Python CLI, Terminal HUD, Tokenomics |
 | **[mcp-telegram-topics](https://github.com/diptapradipta21/mcp-telegram-topics)** | Model Context Protocol (MCP 2.0) server for Claude to manage Telegram Supergroup forum threads. | Python, MCP SDK, Telegram Bot API |
 | **[3d-ai-virtual-office](https://github.com/diptapradipta21/3d-ai-virtual-office)** | Interactive 5-floor isometric 3D virtual office where autonomous Claude agents execute live workflows. | Three.js, WebGL, Web Audio API, Claude |
 | **[hermes-brain-sync](https://github.com/diptapradipta21/hermes-brain-sync)** | Zero-token bi-directional memory and skill mirror between VPS agents and Obsidian Vaults via Git. | Python Standard Library, Git Automation |
