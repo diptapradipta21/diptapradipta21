@@ -37,8 +37,13 @@ focus mantra    →  architect · automate · verify · scale
 | Repository | Focus | Tech Stack |
 | :--- | :--- | :--- |
 | **[mcp-whatsapp-bridge](https://github.com/diptapradipta21/mcp-whatsapp-bridge)** | Model Context Protocol (MCP 2.0) server enabling Claude Desktop & Code to send direct WhatsApp messages & alerts. | Python, MCP SDK, WhatsApp Gateway |
+| **[claude-code-safeguard](https://github.com/diptapradipta21/claude-code-safeguard)** | Zero-leak secret interceptor and credential redaction sandbox for Claude Code CLI prompts and tool calls. | Python, Security Sandbox |
+| **[meta-ads-sentinel-mcp](https://github.com/diptapradipta21/meta-ads-sentinel-mcp)** | Model Context Protocol (MCP 2.0) server enabling Claude to audit Meta Ads, monitor CPL, and pause fatigued adsets. | Python, MCP SDK, Meta Graph API |
 | **[agent-rag-vault](https://github.com/diptapradipta21/agent-rag-vault)** | Zero-token local RAG & BM25 Markdown knowledge vault search engine for AI agents and Obsidian. | Python Standard Library, BM25, Obsidian |
 | **[claude-token-sentinel](https://github.com/diptapradipta21/claude-token-sentinel)** | Real-time terminal HUD tokenometer & cost guard for Claude Code CLI to prevent 5-hour rate limits. | Python CLI, Terminal HUD, Tokenomics |
+| **[html-deck-generator](https://github.com/diptapradipta21/html-deck-generator)** | Apple Keynote & Linear tier 16:9 widescreen HTML-to-PDF slide deck compiler via Headless Chromium. | Python, Headless Chromium, CSS Bento |
+| **[zero-token-whisper-cli](https://github.com/diptapradipta21/zero-token-whisper-cli)** | Offline local video subtitle generator producing karaoke-style ASS subtitles with keyword highlights. | Python, Faster-Whisper, FFmpeg |
+| **[agentic-cron-scheduler](https://github.com/diptapradipta21/agentic-cron-scheduler)** | Autonomous self-healing task scheduler for AI agents with automatic remediation hooks on job failures. | Python, Process Automation, DevOps |
 | **[mcp-telegram-topics](https://github.com/diptapradipta21/mcp-telegram-topics)** | Model Context Protocol (MCP 2.0) server for Claude to manage Telegram Supergroup forum threads. | Python, MCP SDK, Telegram Bot API |
 | **[3d-ai-virtual-office](https://github.com/diptapradipta21/3d-ai-virtual-office)** | Interactive 5-floor isometric 3D virtual office where autonomous Claude agents execute live workflows. | Three.js, WebGL, Web Audio API, Claude |
 | **[hermes-brain-sync](https://github.com/diptapradipta21/hermes-brain-sync)** | Zero-token bi-directional memory and skill mirror between VPS agents and Obsidian Vaults via Git. | Python Standard Library, Git Automation |
