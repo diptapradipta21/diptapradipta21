@@ -46,7 +46,7 @@ focus mantra    →  architect · automate · verify · scale
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=diptapradipta21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Fajar's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=diptapradipta21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Fajar's GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=diptapradipta21&theme=tokyonight&hide_border=true" width="48%" alt="Fajar's GitHub Streak" />
 </p>
 
