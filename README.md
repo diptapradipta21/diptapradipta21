@@ -36,6 +36,7 @@ focus mantra    →  architect · automate · verify · scale
 
 | Repository | Focus | Tech Stack |
 | :--- | :--- | :--- |
+| **[agent-skill-sentinel](https://github.com/diptapradipta21/agent-skill-sentinel)** | Zero-token static security scanner & prompt injection detector for AI Agent skills and MCP tools. | Python CLI, Agent Security, Zero-Token |
 | **[mcp-whatsapp-bridge](https://github.com/diptapradipta21/mcp-whatsapp-bridge)** | Model Context Protocol (MCP 2.0) server enabling Claude Desktop & Code to send direct WhatsApp messages & alerts. | Python, MCP SDK, WhatsApp Gateway |
 | **[claude-code-safeguard](https://github.com/diptapradipta21/claude-code-safeguard)** | Zero-leak secret interceptor and credential redaction sandbox for Claude Code CLI prompts and tool calls. | Python, Security Sandbox |
 | **[meta-ads-sentinel-mcp](https://github.com/diptapradipta21/meta-ads-sentinel-mcp)** | Model Context Protocol (MCP 2.0) server enabling Claude to audit Meta Ads, monitor CPL, and pause fatigued adsets. | Python, MCP SDK, Meta Graph API |
